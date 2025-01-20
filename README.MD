@@ -12,15 +12,15 @@ on [Brightway](https://github.com/brightway-lca), [Activity Browser](https://git
 to make our inventory models better fit research questions with a temporal 
 dimension. The instructors will be:
 
-- **Romain Sacchi**: Developer of Premise
-- **Karin Treyer**: Spearheads Brightway’s online learning materials focusing on novice users
+- **Romain Sacchi**: Developer of [Premise](https://github.com/polca/premise), [Pathways](https://github.com/polca/pathways) and [Carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator)
+- **Karin Treyer**: Spearheads [Brightway’s online learning material](https://docs.brightway.dev/en/latest/) focusing on novice users
 
-The course will cover Brightway’s basics and best practices for model development, 
-including the use of Jupyter notebooks and the Activity Browser. 
+The course will cover [Brightway](https://docs.brightway.dev/en/latest/)’s basics and best practices for model development, 
+including the use of Jupyter notebooks and the [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). 
 Essential LCA aspects such as sensitivity analysis, multiple types of 
 uncertainty, parametrization, and best practices in software architecture 
-will be taught. We will also introduce the use of ODYM for dynamic LCA
-and the use of Wurst for temporal disaggregation of LCA inventories.
+will be taught. We will also introduce the use of [ODYM](https://github.com/IndEcol/ODYM) for dynamic LCA
+and the use of [Wurst](https://github.com/polca/wurst) for temporal disaggregation of LCA inventories.
 
 ## Course Structure
 This tree-day course will consist of lectures together with hands-on exercises.
