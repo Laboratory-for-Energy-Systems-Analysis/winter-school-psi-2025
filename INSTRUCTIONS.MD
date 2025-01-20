@@ -177,6 +177,7 @@ and check the installed packages by running:
 
 The installation of AB is basically also simply the creation of an environment which is called "ab", and which contains the activity browser package (and all related packages required to run AB). 
 Please follow the installation instructions given here: https://github.com/LCA-ActivityBrowser/activity-browser
+This will create a fifth environment on your computer called `ab`.
 
 ## Ecoinvent database
 
@@ -186,7 +187,7 @@ Or ask the ecoinvent support if you can't find out in-house.
 
 We will be using the ecoinvent 3.10 cut-off database for the course.
 
-In the terminal, place yourself in the `envs` folder and:
+In the terminal, place yourself in the `winter-school-psi-2025/envs` folder and:
 
 1. Activate one of the environments you have created (e.g., `bw2`):
 
@@ -211,10 +212,13 @@ If successful, you should see the following message:
         ecoinvent-3.10-cutoff
 ```
 
-If not, please contact us.
+If not, please [contact us](mailto:romain.sacchi@psi.ch).
 
 # Code editor
 
-We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) 
-for the course. Both are free (Community edition) and have a lot of features that will 
-help you during the course.
+We recommend using [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/) or [Visual Studio Code] as an IDE 
+(Integrated Development Environment) for the course.
+
+> [!NOTE]
+> Both are free if you select the "Community Edition" version (not Professional). They have a lot of features that will 
+> help you during the course.
