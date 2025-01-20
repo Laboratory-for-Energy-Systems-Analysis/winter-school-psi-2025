@@ -54,6 +54,7 @@ the Brugg train station, and by car via Swiss Federal Route 5.
 The address is:
 
 ```
+PSI Ost
 Forschungsstrasse 111
 5232 Villigen PSI
 Switzerland
@@ -70,7 +71,11 @@ The Paul Scherrer Institute is located near the village of Villigen, Switzerland
 * By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
 
 ## Python Preparation
-A basic understanding of Python is necessary for the school. Brightway offers 
+
+> [!NOTE]
+> A basic understanding of Python is necessary for the school. 
+
+Brightway offers 
 training and documentation online. Students should review those materials 
 and some Python training before the school starts. 
 Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
@@ -83,6 +88,12 @@ We will pick you up from the reception.
 
 > [!IMPORTANT]  
 > Please bring an ID document with you to enter the PSI campus.
+
+Obviously, please bring your laptop with you.
+
+> [!IMPORTANT]
+> We recommend to have at least 8GB of RAM on your computer, as some of the calculations can 
+> be quite memory-intensive.
 
 For more information, please see the [schedule](SCHEDULE.MD).
 
