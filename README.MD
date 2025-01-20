@@ -31,10 +31,30 @@ the Brightway ecosystem, specifically targeting beginner and intermediate
 users. Students who complete the school will receive a certificate for 2 
 ETCS credit points. Enrollment is limited to 20 people.
 
-## Location
+
+# ACCESSING PSI OST
+
 The winter school will be held at PSI Ost, at the [Paul Scherrer Institute](https://www.psi.ch/en), 
-Villigen, Switzerland. PSI is located in the canton of Aargau, between Zurich
-and Basel, 10 km north of Brugg.
+Villigen, Switzerland.
+**PSI East** (or **PSI Ost**), part of the Paul Scherrer Institute (PSI) in Switzerland, 
+is located in Villigen, Canton of Aargau, in the northern part of the 
+country near the confluence of the Aare and Rhine rivers. It is 
+approximately 35 kilometers northwest of Zurich, 20 kilometers 
+northeast of Aarau, and close to the German border. The site is 
+easily accessible via public transport, with bus connections from 
+the Brugg train station, and by car via Swiss Federal Route 5. 
+
+The address is:
+
+```
+Forschungsstrasse 111
+5232 Villigen PSI
+Switzerland
+```
+
+# CONTACT
+
+In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## Get there
 The Paul Scherrer Institute is located in Villigen, Switzerland.

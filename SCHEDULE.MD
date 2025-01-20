@@ -3,28 +3,6 @@
 Please read the instructions to follow before arriving at 
 the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
-# ACCESSING PSI OST
-
-**PSI East** (or **PSI Ost**), part of the Paul Scherrer Institute (PSI) in Switzerland, 
-is located in Villigen, Canton of Aargau, in the northern part of the 
-country near the confluence of the Aare and Rhine rivers. It is 
-approximately 35 kilometers northwest of Zurich, 20 kilometers 
-northeast of Aarau, and close to the German border. The site is 
-easily accessible via public transport, with bus connections from 
-the Brugg train station, and by car via Swiss Federal Route 5. 
-
-The address is:
-
-```
-Forschungsstrasse 111
-5232 Villigen PSI
-Switzerland
-```
-
-# CONTACT
-
-In case of issue locating the venue, please call this number: +41 56 310 21 11
-
 # DAY 1 (WEDNESDAY)
 
 ## 09:00 - 09:30
