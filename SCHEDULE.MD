@@ -39,7 +39,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## 10:15 - 11:00
 **Brightway basics (part I)**
-**Environment**:  bw25
+**Environment**:  bw2
 **Instructor**: Romain
 - Introduction to the Brightway framework
 - Importing databases
@@ -50,7 +50,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## 11:15 - 12:30
 **Brightway basics (part II)**
-**Environment**:  bw25
+**Environment**:  bw2
 **Instructor**: Romain
 - Running LCA
 - Matrices
@@ -60,7 +60,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## 13:30 - 15:30
 **Brightway basics (part III)**
-**Environment**:  bw25
+**Environment**:  bw2
 **Instructor**: Romain
 - Importing own inventories
 - Importing own LCIA methods
@@ -70,7 +70,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## 15:50 - 17:30
 **Brightway basics (part IV)**
-**Environment**:  bw25
+**Environment**:  bw2
 **Instructor**: Romain
 - Contribution analysis
 - Results visualisation
@@ -166,7 +166,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 ## 15:45 - 17:00
 **Regionalized Impact Assessment**
 **Instructor**: Romain
-**Environment**:  bw25
+**Environment**:  bw2
 - Introduction to regionalized impact assessment
 - Building a simple regionalized impact assessment model
 - ``edges``

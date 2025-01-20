@@ -7,10 +7,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - premise
+  - premise-bw2
   - jupyterlab
   - matplotlib
   - seaborn
-  - constructive_geometries==1.0.0
-  - activity-browser
-  - ab-plugin-scenariolink
+  - constructive_geometries>=1.0.0

@@ -1,4 +1,4 @@
-# in your terminal, run conda: conda env create -f bw25_env_win64.yaml
+# in your terminal, run conda: conda env create -f bw2_env_win64.yaml
 
 name: odym
 channels:
@@ -6,7 +6,9 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - brightway2
+  - bw2calc==1.8.2
+  - bw2data==3.6.6
+  - bw2io==0.8.12
   - jupyterlab
   - matplotlib
   - seaborn

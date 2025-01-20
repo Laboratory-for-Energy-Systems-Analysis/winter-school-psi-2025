@@ -1,4 +1,4 @@
-# in your terminal, run conda: conda env create -f wurst_env_win64.yaml
+# in your terminal, run conda: conda env create -f wurst_env_osxARM.yaml
 
 name: wurst
 channels:
@@ -7,13 +7,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - brightway25_nosolver
+  - bw2calc==1.8.2
+  - bw2data==3.6.6
+  - bw2io==0.8.12
   - scikit-umfpack
-  - bw2parameters >=1.1.0
   - ecoinvent_interface
   - numpy <=1.24.4
   - wurst >=0.4.0
-  - constructive_geometries==1.0.0
+  - constructive_geometries>=1.0.0
   - jupyterlab
   - matplotlib
   - seaborn

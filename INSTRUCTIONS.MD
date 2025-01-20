@@ -1,19 +1,20 @@
 # INSTRUCTIONS BEFORE ARRIVAL
 
 Please follow the below instructions before arriving at the course.
-If you encounter any issues, please contact us, and we will troubleshoot, so that you can arrive with everything set up on your computer.
-For those arriving Sunday already at the hotel, Romain and Alvaro will also be there to have a look at anything which doesn't work. 
-Please absolutely make sure that everything works, so that we can start right away on Monday with the content instead of technical troubleshooting.
-
+If you encounter any issues, please contact us, and we will troubleshoot, so that you can arrive with everything set 
+up on your computer. Please absolutely make sure that everything works, so that we can start right away on Wednesday 
+with the content instead of technical troubleshooting.
 
 
 # WORK ON SERVERS vs. LOCAL MACHINES
 
-You will set up everything on your local machine, instead of us providing a consistent and working server for the duration of this course. 
-Why? Because you will also not work on a nicely set up server at home, but with your own machine. Thus we don't want to create an artificial 
-environment for you during the course, but give you the chance to set up everything such that you can go home and continue with the work.
+You will set up everything on your local machine, instead of us providing a consistent and working server for 
+the duration of this course. Why? Because you will also not work on a nicely set up server at home, but with 
+your own machine. Thus, we don't want to create an artificial environment for you during the course, 
+but give you the chance to set up everything such that you can go home and continue with the work.
 
-> **_NOTE:_**  We however recommend to have at least 8GB of RAM on your computer, as some of the calculations can be quite memory-intensive.
+> **_NOTE:_**  We however recommend to have at least 8GB of RAM on your computer, as some of the calculations can 
+> be quite memory-intensive.
 
 # ANACONDA AND GIT
 
@@ -30,36 +31,31 @@ We recommend using homebrew to install Git on Mac:
   brew install git
 ```
 
-For Windows users, you can download teh Git installer from the link above (you most likely
+For Windows users, you can download the Git installer from the link above (you most likely
 need the 64-bit version).
-
-## Change the Anaconda solver
-
-Once you have installed Anacoda on your computer, you may consider installing 
-the `libmamba` solver in conda, for faster environment resolution.
-Open the terminal (Anaconda terminal in Windows, or Terminal on Mac) 
-and run the following commands:
-
-```bash
-  conda install -n base conda-libmamba-solver
-  conda config --set solver libmamba
-```
 
 ## Clone this repository
 
-Option A: Download github desktop, click to clone a repository, and paste the link of the repository shown further below.
+Option A: Download the [GitHub desktop](https://desktop.github.com/download/) application, 
+click to clone a repository, and paste the link of the repository shown further below.
 
-Option B: 
-Using your Windows/Mac terminal, navigate to the folder where you want 
-to store the course material.For example, you can create a folder 
-called `winter-school-2025` in your `Documents` folder. To navigate to 
-the `Documents` folder, you can run the following command:
+Option B: Via the CLI (**C**ommand **L**ine **I**nterface): using your Windows/Mac terminal, 
+navigate to the folder where you want to store the course material. For example, you can 
+create a folder called `winter-school-2025` in your `Documents` folder. 
+
+To know your current location in the terminal, you can run the following command:
+
+```bash
+  pwd
+```
+
+To navigate to the `Documents` folder, you can run the following command:
 
 ```bash
   cd Documents
 ```
 
-To go back to the previous folder, you can run the following command:
+To go back to the parent folder, you can run the following command:
 
 ```bash
   cd ..
@@ -71,33 +67,32 @@ If you want to create a new folder, you can run the following command:
   mkdir winter-school-2025
 ```
 
-Once you are in the folder of your choice, you can **clone** this Github repository 
+Once you are in the folder of your choice, you can **clone** this GitHub repository 
 using Git onto your computer by running the following command in your terminal:
 
 ```bash
   git clone https://github.com/Laboratory-for-Energy-Systems-Analysis/winter-school-psi-2025.git
 ```
 
-You can now navigate to the `winter-school-dds-psi-2025` folder and 
-access its content on your computer.
+You can now navigate to the `winter-school-2025` folder and access its content on your computer.
 
 ## Environments setup
 
 When you will do exercises on your computer, you will use a number of libraries
-that are not installed by default in Anaconda. To make sure you have all the
+that are not installed by default by Anaconda. To make sure you have all the
 necessary libraries, we will create Anaconda **environments** for you, using
 **recipes** that we have prepared.
 
-We have prepared four recipes which install four different environments:
-- `bw25_env_xxx.yaml`: it will install the `brightway` library  as well as `temporalis`
+We have prepared four recipes which install five different environments:
+- `bw2_env_xxx.yaml`: it will install the `brightway` library
 - `wurst_env_xxx.yaml`: it will install the `wurst` library and its dependencies
-- `premise_env.yaml`: it will install the `premise` library and its dependencies as well as `activity-browser`
+- `premise_env.yaml`: it will install the `premise` library and its dependencies
 - `odym_env.yaml`: it will install the `odym` library and its dependencies
 
-After running the recipe files, you will have four environments on your computer:
+After running the recipe files, you will have five environments on your computer:
+- `bw2`
 - `wurst`
 - `premise`
-- `bw25`
 - `odym`
 
 Here is how to install these environments:
@@ -105,7 +100,7 @@ Here is how to install these environments:
 Using your terminal, navigate to the `environments` folder of the repository:
 
 ```bash
-  cd winter-school-dds-psi-2025/envs
+  cd winter-school-2025/envs
 ```
 
 Then, run the following command to create the `wurst` environment:
@@ -140,22 +135,22 @@ Then, run the following command to create the `odym` environment:
 
 This will create a conda environment called `odym` with all the required dependencies.
 
-Finally, run the following command to create the `bw25` environment:
+Finally, run the following command to create the `bw2` environment:
 
 On Windows or Mac with an Intel processor:
 
 
 ```bash
-  conda env create -f bw25_env_win64.yaml
+  conda env create -f bw2_env_win64.yaml
 ```
 
 On a Mac with an M1/2/3/4 processor:
 
 ```bash
-  conda env create -f bw25_env_osxARM.yaml
+  conda env create -f bw2_env_osxARM.yaml
 ```
 
-This will create a conda environment called `bw25` with all the required dependencies.
+This will create a conda environment called `bw2` with all the required dependencies.
 
 You can check that the environments have been created by running the following command:
 
@@ -185,15 +180,13 @@ Please follow the installation instructions given here: https://github.com/LCA-A
 ## Ecoinvent database
 
 Also, please acquire credentials (username and password) to 
-download the [ecoinvent](https://ecoinvent.org) database. Ask the person in charge of your group/university to get these credentials. Or ask the ecoinvent support if you can't find out in-house.
+download the [ecoinvent](https://ecoinvent.org) database. Ask the person in charge of your group/university to get these credentials. 
+Or ask the ecoinvent support if you can't find out in-house.
 
 We will be using the ecoinvent 3.10 cut-off database for the course.
 
 # Code editor
 
-We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) for the course.
-Both are free (Community edition) and have a lot of features that will 
+We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) 
+for the course. Both are free (Community edition) and have a lot of features that will 
 help you during the course.
-
-
-

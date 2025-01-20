@@ -1,21 +1,21 @@
-# in your terminal, run conda: conda env create -f bw25_env_win64.yaml
+# in your terminal, run conda: conda env create -f bw2_env_win64.yaml
 
-name: bw25
+name: bw2
 channels:
   - conda-forge
   - cmutel
   - defaults
 dependencies:
   - python=3.11
-  - brightway25_nosolver
-  - bw_graph_tools
+  - bw2calc==1.8.2
+  - bw2data==3.6.6
+  - bw2io==0.8.12
   - ecoinvent_interface
-  - scikit-umfpack
   - numpy<=1.24.4
   - jupyterlab
   - matplotlib
   - seaborn
-  - bw_temporalis
+  - pip
   - pip:
       - git+https://github.com/romainsacchi/d3blocks.git
       - polyviz
