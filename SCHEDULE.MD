@@ -3,42 +3,41 @@
 Please read the instructions to follow before arriving at 
 the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
-# IF YOU ARRIVE EARLY (ON SUNDAY)
+# ACCESSING PSI OST
 
-For those of you travelling from far away, we recommend arriving on Sunday, 
-the day before the workshop starts. This will give you time to settle in and 
-get a good night's sleep before the school begins. If you plan on arriving on 
-Sunday afternoon/evening, **you should notify it during registration**. 
+**PSI East** (or **PSI Ost**), part of the Paul Scherrer Institute (PSI) in Switzerland, 
+is located in Villigen, Canton of Aargau, in the northern part of the 
+country near the confluence of the Aare and Rhine rivers. It is 
+approximately 35 kilometers northwest of Zurich, 20 kilometers 
+northeast of Aarau, and close to the German border. The site is 
+easily accessible via public transport, with bus connections from 
+the Brugg train station, and by car via Swiss Federal Route 5. 
 
-# ACCESSING THE MOESCHBERG SEMINAR HOTEL
-
-The Moeschberg Seminar Hotel is located in the small village of Grosshöchstetten,
-about 20 minutes by train from Bern (via Konolfingen). The address is:
+The address is:
 
 ```
-Moeschberg Seminar Hotel
-Möschberg 7B
-3506 Grosshöchstetten
+Forschungsstrasse 111
+5232 Villigen PSI
 Switzerland
 ```
 
-The hotel is located on a hill, so you will have to walk up **a steep path** to get
-there. If you have heavy luggage, you can call the hotel at +41 31 710 22 22 EARLY ENOUGH PRIOR to your arrival to arrange that
-they will send a car to pick you up at the train station.
+# CONTACT
 
-# DAY 1 (MONDAY)
+In case of issue locating the venue, please call this number: +41 56 310 21 11
+
+# DAY 1 (WEDNESDAY)
 
 ## 09:00 - 09:30
 **Welcome (15 min) and introduction round 1 (15 min)**
 
-## 09:30 - 9:50
+## 09:30 - 10:00
 **Brightway universe basic introduction**
 **Instructor**: Karin
 - What is BW, AB
 - What is required to use BW
 - How can you use BW
 
-## 09:50 - 10:45
+## 10:15 - 11:00
 **Brightway basics (part I)**
 **Environment**:  bw25
 **Instructor**: Romain
@@ -46,17 +45,17 @@ they will send a car to pick you up at the train station.
 - Importing databases
 - Handling activities
 
-## 10:45 - 11:00
+## 11:00 - 11:15
 **Coffee break**
 
-## 11:00 - 12:00
+## 11:15 - 12:30
 **Brightway basics (part II)**
 **Environment**:  bw25
 **Instructor**: Romain
 - Running LCA
 - Matrices
 
-## 12:00 - 13:30
+## 12:30 - 13:30
 **Lunch**
 
 ## 13:30 - 15:30
@@ -64,23 +63,31 @@ they will send a car to pick you up at the train station.
 **Environment**:  bw25
 **Instructor**: Romain
 - Importing own inventories
+- Importing own LCIA methods
+
+## 15:30 - 15:50
+**Coffee break**
+
+## 15:50 - 17:30
+**Brightway basics (part IV)**
+**Environment**:  bw25
+**Instructor**: Romain
 - Contribution analysis
 - Results visualisation
 - Exporting and sharing databases and projects
 
-## 15:20 - 15:50
-**Coffee break**
-
-## 15:50 - 1650
-**Brightway basics (part IV)**
-
-## 16:50-17:00
+## 17:30-17:45
 **Introduction round 2 (15 min)**
 
-## 17:00 - 18:00
+# DAY 2 (THURSDAY)
+
+## 09:00 - 09:15
+**Recap of day 1**
+
+## 09:15 - 11:30
 **Activity Browser**
 **Instructor**: Karin 
-**Environment**:  premise
+**Environment**:  ab
 - Introduction to the Activity Browser
 - Parametrised inventories
 - Monte Carlo analysis
@@ -88,156 +95,85 @@ they will send a car to pick you up at the train station.
 - Interplay: Working in AB and in jupyter notebooks
 - Q&A
 
-## 18:00 - 19:30
-**Rest and dinner**
+## 11:30 - 11:45
+**Coffee break**
 
-## 19:30 - 21:00
-**Hands-on exercises**
-**Instructor**: Alvaro
-**Environment**:  premise
+## 11:45 - 12:30
+**Hands-on exercises to do at home**
+**Instructor**: Karin
+**Environment**: ab
 - Parametrised inventories
 - Monte Carlo analysis
 
-# DAY 2 (TUESDAY)
+## 12:30 - 13:30
+**Lunch**
 
-## 08:30 - 09:00
-**Recap of day 1**
-
-## 09:00 - 10:45
-**Wurst**
+## 13:30 - 15:00
+**Wurst (part I)**
 **Instructor**: Romain
 **Environment**:  wurst
 - Introduction to the Wurst library
 - Database manipulation
+
+## 15:00 - 15:15
+**Coffee break**
+
+## 15:15 - 17:00
+**Wurst (part II)**
+**Instructor**: Romain
+**Environment**:  wurst
 - Scenario implementation
 - Comparative analyses
 - Q&A
 
-## 10:45 - 11:00
-**Coffee break**
+## 17:00 - 18:00
+**Q&A and debugging session**
 
-## 11:00 - 12:30
-**Hands-on exercises**
-**Instructor**: Karin
-**Environment**:  wurst
+# DAY 3 (FRIDAY)
 
-## 12:30 - 14:00
-**Lunch**
-
-## 14:00 - 17:00
-**Premise**
+## 09:00 - 10:30
+**Premise (part I)**
 **Instructor**: Romain
 **Environment**:  premise
 - Introduction to prospective databases
 - Generation of prospective databases
+
+## 10:30 - 10:45
 - **Coffee break**
-- Generation of custom scenarios
+
+## 10:45 - 12:30
+**Premise (part I)**
+**Instructor**: Romain
+**Environment**:  premise
+- Generation of prospective databases
+- Superstructure databases in Activity-Browser
 - Q&A
 
-## 17:00 - 19:30
-**Rest and dinner**
-
-## 19:30 - 21:00
-**Hands-on exercises - Activity Browser**
-**Instructor**: Karin
-**Environment**:  premise
-- Generate and use a superstructure database
-- Use parameters
-- Use scenarios/superstructure for LCIA
-
-
-# DAY 3 (WEDNESDAY)
-
-## 09:00 - 10:15
-**Deepen knowledge: Q&A session on day 1 and 2**
-**Instructor**: Karin
-- Q&A session on day 1 and 2
-
-## 10:15 - 10:30
-**Coffee break**
-
-## 10:30-11:30
-**Setting up the group work**
-**Instructor**: Karin
-- Group topics selection (see [TOPICS.MD](TOPICS.MD) for more information)
-- Formation of groups
-
-## 11:30 - 12:30
-**Dynamic inventory: `temporalis`** (part I)
-**Instructor**: Chris
-**Environment**:  bw25
-
-## 12:30 - 14:00
+## 12:30 - 13:30
 **Lunch**
 
-## 14:00 - 15:15
-**Dynamic inventory: `temporalis`** (part II)
-**Instructor**: Chris
-**Environment**:  bw25
-
-## 15:15 - 15:30
-**Coffee break**
-
-## 15:30 - 18:15
-**Collaboration via Git**
-**Instructor**: Chris
-- Introduction to Git
-- Testing
-- Documentation
-
-(Packaging is skipped, see the [May 2024 material](https://github.com/Depart-de-Sentier/Schools-2024-May-Quebec/blob/main/class-materials/packaging.md) if you want to learn about making libraries.
-
-## 18:15 - 19:30
-**Rest and dinner**
-
-## 19:30 - 21:00
-**Hands-on exercise**
-**Instructor**: Chris
-
-Task: 
-
-* Make a copy of the `tutorials/temporal/2 - Car example.ipynb` notebook ([link](https://github.com/romainsacchi/autumn-school-dds-psi-2024/blob/main/tutorials/temporal/2%20-%20Car%20example.ipynb)).
-* Turn the notebook cell that starts with `MILAGE = 200_000` into a function which takes the milage and lifetime as *input arguments*.
-* Write a docstring for that function. Bonus points for including a mermaid chart. See the [documentation notebook](https://github.com/romainsacchi/autumn-school-dds-psi-2024/blob/main/tutorials/packaging/1%20-%20Getting%20started.ipynb) for help.
-* Write a parameterized test function for the new function you just created which includes calculating the LCA score, and check that the total score is within certain bounds. Bonus points for including more complex tests which look at when the impact occurs.
-
-# DAY 4 (THURSDAY)
-
-## 08:30 - 11:00
+## 13:30 - 15:30
 **Mass and Flow Analysis:`ODYM`**
-**Instructor**: Alvaro
+**Instructor**: Karin ?
+**Environment**:  odym
+- Introduction to ODYM
+- Building a simple ODYM model
+- MFA & pLCA of solar PV fleet
 
-## 11:00 - 11:15
+## 15:30 - 15:45
 **Coffee break**
 
-## 11:15 - 12:30
-**Group work**
+## 15:45 - 17:00
+**Regionalized Impact Assessment**
+**Instructor**: Romain
+**Environment**:  bw25
+- Introduction to regionalized impact assessment
+- Building a simple regionalized impact assessment model
+- ``edges``
 
-## 12:30 - 14:00
-**Lunch**
+## 17:00 - 17:30
+**Q&A and debugging session**
 
-## 14:00 - 18:00
-**Group work**
+## 17:30 - 18:00
+**Feedback and closing remarks**
 
-## 18:00 - 19:30
-**Rest and dinner**
-
-## 19:30 - 21:30
-**Group work**
-
-# DAY 5 (FRIDAY)
-
-## 09:00 - 12:30
-**Group work**
-
-## 12:30 - 14:00
-**Lunch**
-
-## 14:00 - 16:15
-**Group work presentation**
-
-## 16:15 - 17:00
-**Closing remarks and feedback**
-
-## 17:00
-**Apéro and goodbyes**
