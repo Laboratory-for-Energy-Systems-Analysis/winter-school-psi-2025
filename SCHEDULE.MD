@@ -1,12 +1,14 @@
-# PRIOR TO ARRIVAL
+## PRIOR TO ARRIVAL
 
-Please read the instructions to follow before arriving at 
+> [!IMPORTANT]  
+> Please read the instructions to follow before arriving at 
 the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
-# DAY 1 (WEDNESDAY)
+## DAY 1 (WEDNESDAY)
 
-## 09:00 - 09:30
+### 09:00 - 09:30
 **Welcome (15 min) and introduction round 1 (15 min)**
+**Location**: OHSA E13
 
 ## 09:30 - 10:00
 **Brightway universe basic introduction**
@@ -17,6 +19,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 10:15 - 11:00
 **Brightway basics (part I)**
+**Location**: OHSA E13
 **Environment**:  bw2
 **Instructor**: Romain
 - Introduction to the Brightway framework
@@ -28,6 +31,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 11:15 - 12:30
 **Brightway basics (part II)**
+**Location**: OHSA E13
 **Environment**:  bw2
 **Instructor**: Romain
 - Running LCA
@@ -35,9 +39,11 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 12:30 - 13:30
 **Lunch**
+**Location**: OASE
 
 ## 13:30 - 15:30
 **Brightway basics (part III)**
+**Location**: OHSA E13
 **Environment**:  bw2
 **Instructor**: Romain
 - Importing own inventories
@@ -48,6 +54,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 15:50 - 17:30
 **Brightway basics (part IV)**
+**Location**: OHSA E13
 **Environment**:  bw2
 **Instructor**: Romain
 - Contribution analysis
@@ -56,14 +63,17 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 17:30-17:45
 **Introduction round 2 (15 min)**
+**Location**: OHSA E13
 
 # DAY 2 (THURSDAY)
 
 ## 09:00 - 09:15
 **Recap of day 1**
+**Location**: OHSA E13
 
 ## 09:15 - 11:30
 **Activity Browser**
+**Location**: OHSA E13
 **Instructor**: Karin 
 **Environment**:  ab
 - Introduction to the Activity Browser
@@ -78,6 +88,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 11:45 - 12:30
 **Hands-on exercises to do at home**
+**Location**: OHSA E13
 **Instructor**: Karin
 **Environment**: ab
 - Parametrised inventories
@@ -85,9 +96,11 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 12:30 - 13:30
 **Lunch**
+**Location**: OASE
 
 ## 13:30 - 15:00
 **Wurst (part I)**
+**Location**: OHSA E13
 **Instructor**: Romain
 **Environment**:  wurst
 - Introduction to the Wurst library
@@ -98,6 +111,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 15:15 - 17:00
 **Wurst (part II)**
+**Location**: OHSA E13
 **Instructor**: Romain
 **Environment**:  wurst
 - Scenario implementation
@@ -111,6 +125,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 09:00 - 10:30
 **Premise (part I)**
+**Location**: OHSA E13
 **Instructor**: Romain
 **Environment**:  premise
 - Introduction to prospective databases
@@ -121,6 +136,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 10:45 - 12:30
 **Premise (part I)**
+**Location**: OHSA E13
 **Instructor**: Romain
 **Environment**:  premise
 - Generation of prospective databases
@@ -129,9 +145,11 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 12:30 - 13:30
 **Lunch**
+**Location**: OASE
 
 ## 13:30 - 15:30
 **Mass and Flow Analysis:`ODYM`**
+**Location**: OHSA E13
 **Instructor**: Karin ?
 **Environment**:  odym
 - Introduction to ODYM
@@ -143,6 +161,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ## 15:45 - 17:00
 **Regionalized Impact Assessment**
+**Location**: OHSA E13
 **Instructor**: Romain
 **Environment**:  bw2
 - Introduction to regionalized impact assessment
