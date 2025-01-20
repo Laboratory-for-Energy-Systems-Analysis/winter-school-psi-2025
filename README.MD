@@ -38,8 +38,9 @@ and Basel, 10 km north of Brugg.
 
 ## Get there
 The Paul Scherrer Institute is located in Villigen, Switzerland.
-By bus: the stop is Villigen, PSI Ost. From Bugg: Line 376, every 30 minutes.
-By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
+
+* By bus: the stop is Villigen, PSI Ost. From Bugg: Line 376, every 30 minutes.
+* By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
 
 ## Python Preparation
 A basic understanding of Python is necessary for the school. Brightway offers 
@@ -48,8 +49,11 @@ and some Python training before the school starts.
 Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 
 ## Schedule
-- **Starting Time**: The school starts at 09:00 on Wednesday. It is most convenient to arrive a bit before. 
+- **Starting Time**: The school starts at 09:00 on Wednesday. Try to be there 10-15 minutes before. 
 - **Ending Time**: The school ends at 18:00 on Friday.
+
+We will pick you up from the reception.
+**Important: please bring an ID document with you to enter the PSI campus.**
 
 For more information, please see the [schedule](SCHEDULE.MD).
 

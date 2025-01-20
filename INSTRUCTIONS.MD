@@ -210,6 +210,8 @@ If successful, you should see the following message:
         ecoinvent-3.10-cutoff
 ```
 
+If not, please contact us.
+
 # Code editor
 
 We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) 
