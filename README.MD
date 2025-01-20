@@ -73,14 +73,18 @@ Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 - **Ending Time**: The school ends at 18:00 on Friday.
 
 We will pick you up from the reception.
-**Important: please bring an ID document with you to enter the PSI campus.**
+
+> [!IMPORTANT]  
+> Please bring an ID document with you to enter the PSI campus.
 
 For more information, please see the [schedule](SCHEDULE.MD).
 
 ## Instructions Before Arrival
 Ideally, do this **at least one week before the course starts**, 
 so that you have time to ask/write us questions if you encounter any issues.
-Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
+
+> [!IMPORTANT]  
+> Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 
 ## License
 Unless otherwise specified, all material in this repository is licensed
