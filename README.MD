@@ -32,7 +32,7 @@ users. Students who complete the school will receive a certificate for 2
 ETCS credit points. Enrollment is limited to 20 people.
 
 
-# ACCESSING PSI OST
+## ACCESSING PSI OST
 
 The winter school will be held at PSI Ost, at the [Paul Scherrer Institute](https://www.psi.ch/en), 
 Villigen, Switzerland.
@@ -52,7 +52,7 @@ Forschungsstrasse 111
 Switzerland
 ```
 
-# CONTACT
+## CONTACT
 
 In case of issue locating the venue, please call this number: +41 56 310 21 11
 
