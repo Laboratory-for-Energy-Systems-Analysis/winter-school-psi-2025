@@ -32,9 +32,9 @@ users. Students who complete the school will receive a certificate for 2
 ETCS credit points. Enrollment is limited to 20 people.
 
 
-## ACCESSING PSI OST
+## Accessing PSI
 
-The winter school will be held at PSI Ost, at the [Paul Scherrer Institute](https://www.psi.ch/en), 
+The winter school will be held at **PSI Ost**, at the [Paul Scherrer Institute](https://www.psi.ch/en), 
 Villigen, Switzerland.
 **PSI East** (or **PSI Ost**), part of the Paul Scherrer Institute (PSI) in Switzerland, 
 is located in Villigen, Canton of Aargau, in the northern part of the 
@@ -52,12 +52,12 @@ Forschungsstrasse 111
 Switzerland
 ```
 
-## CONTACT
+## Contact
 
 In case of issue locating the venue, please call this number: +41 56 310 21 11
 
 ## Get there
-The Paul Scherrer Institute is located in Villigen, Switzerland.
+The Paul Scherrer Institute is located near the village of Villigen, Switzerland.
 
 * By bus: the stop is Villigen, PSI Ost. From Bugg: Line 376, every 30 minutes.
 * By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
