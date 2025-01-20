@@ -52,7 +52,7 @@ Option A: Download github desktop, click to clone a repository, and paste the li
 Option B: 
 Using your Windows/Mac terminal, navigate to the folder where you want 
 to store the course material.For example, you can create a folder 
-called `winter-school-2024` in your `Documents` folder. To navigate to 
+called `winter-school-2025` in your `Documents` folder. To navigate to 
 the `Documents` folder, you can run the following command:
 
 ```bash
@@ -68,17 +68,17 @@ To go back to the previous folder, you can run the following command:
 If you want to create a new folder, you can run the following command:
 
 ```bash
-  mkdir winter-school-2024
+  mkdir winter-school-2025
 ```
 
 Once you are in the folder of your choice, you can **clone** this Github repository 
 using Git onto your computer by running the following command in your terminal:
 
 ```bash
-  git clone https://github.com/romainsacchi/winter-school-dds-psi-2024.git
+  git clone https://github.com/Laboratory-for-Energy-Systems-Analysis/winter-school-psi-2025.git
 ```
 
-You can now navigate to the `winter-school-dds-psi-2024` folder and 
+You can now navigate to the `winter-school-dds-psi-2025` folder and 
 access its content on your computer.
 
 ## Environments setup
@@ -105,7 +105,7 @@ Here is how to install these environments:
 Using your terminal, navigate to the `environments` folder of the repository:
 
 ```bash
-  cd winter-school-dds-psi-2024/envs
+  cd winter-school-dds-psi-2025/envs
 ```
 
 Then, run the following command to create the `wurst` environment:

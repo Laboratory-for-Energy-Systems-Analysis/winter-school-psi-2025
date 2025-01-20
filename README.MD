@@ -1,7 +1,7 @@
 # Winter School on Open-Source Python Tools for LCA and Prospective LCA
 
 <p align="center">
-  <img src="https://github.com/romainsacchi/winter-school-dds-psi-2024/blob/main/_images/psi_luftbild.jpg" 
+  <img src="https://github.com/Laboratory-for-Energy-Systems-Analysis/winter-school-psi-2025/blob/main/_images/psi_luftbild.jpg" 
     alt="Aerial picture of PSI. PSI Ost is on the right side of the Aare." width="50%"/>
 </p>
 
