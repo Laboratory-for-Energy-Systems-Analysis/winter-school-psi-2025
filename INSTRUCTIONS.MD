@@ -185,6 +185,31 @@ Or ask the ecoinvent support if you can't find out in-house.
 
 We will be using the ecoinvent 3.10 cut-off database for the course.
 
+In the terminal, place yourself in the `envs` folder and:
+
+1. Activate one of the environments you have created (e.g., `bw2`):
+
+```bash
+  conda activate bw2
+```
+
+2. Run the Python file `prepare_project.py` which will create a ``brightway2`` project called `winter-school` and import `ecoinvent-3.10-cutoff`.
+
+```bash
+  python prepare_project.py 'ecoinvent_username' 'ecoinvent_password'
+```
+
+Make sure to replace `'ecoinvent_username'` and `'ecoinvent_password'` with your actual ecoinvent credentials.
+Important: use single quotes around the username and password.
+
+If successful, you should see the following message:
+
+```bash
+  List of databases in winter-school project: Databases dictionary with 2 object(s):
+        biosphere
+        ecoinvent-3.10-cutoff
+```
+
 # Code editor
 
 We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) 
