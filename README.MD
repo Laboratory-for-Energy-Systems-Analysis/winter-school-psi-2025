@@ -28,8 +28,15 @@ This tree-day course will consist of lectures together with hands-on exercises.
 ## Target Audience
 This winter school is aimed at students who wish to become familiar with 
 the Brightway ecosystem, specifically targeting beginner and intermediate 
-users. Students who complete the school will receive a certificate for 2 
-ETCS credit points. Enrollment is limited to 20 people.
+users. 
+
+> [!NOTE]
+> Students who complete the school will receive a certificate for 1 
+> ETCS credit point. Students who complete and submit a project will
+> receive an additional credit point.
+
+> [!NOTE]
+> Enrollment is limited to 20 people.
 
 
 ## Accessing PSI
