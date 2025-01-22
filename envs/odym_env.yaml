@@ -1,4 +1,4 @@
-# in your terminal, run conda: conda env create -f bw2_env_win64.yaml
+# in your terminal, run conda: conda env create -f odym_env.yaml
 
 name: odym
 channels:
@@ -12,5 +12,6 @@ dependencies:
   - jupyterlab
   - matplotlib
   - seaborn
+  - pip
   - pip:
       - git+https://github.com/romainsacchi/ODYM.git

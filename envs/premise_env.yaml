@@ -7,7 +7,10 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - premise-bw2
+  - bw2calc==1.8.2
+  - bw2data==3.6.6
+  - bw2io==0.8.12
+  - premise
   - jupyterlab
   - matplotlib
   - seaborn
