@@ -21,3 +21,4 @@ dependencies:
   - pip:
       - git+https://github.com/romainsacchi/d3blocks.git
       - polyviz
+      - git+https://github.com/Laboratory-for-Energy-Systems-Analysis/edges.git
