@@ -61,44 +61,47 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 The Paul Scherrer Institute is located near the village of Villigen, Switzerland.
 
 * By bus from Brugg or Siggenthal-Würenlingen: the stop is Villigen, PSI Ost (NOT PSI West) 
-* By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
+* By car: there is parking available in front of the PSI Ost entrance (10 CHF/day).
 
 ## Badge
 Please go to the security desk located in the main hall of the entrance to get your badge. The security desk will notify us and we will pick you up there.
+
+
+> [!IMPORTANT]  
+> Please bring an ID document with you to enter the PSI campus.
 
 ## Python Preparation
 
 > [!NOTE]
 > A basic understanding of Python is necessary for the school. 
 
-Brightway offers 
-training and documentation online. Students should review those materials 
-and some Python training before the school starts. 
-Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
-
-## Schedule
-- **Starting Time Wednesday**: The school starts at 09:45 on Wednesday. Please try to arrive with the bus 376 from Brugg, departing 9:04 and arriving 9:18 // bus 357 from Siggenthal-Würenlingen, departing 9:04 and arriving 9:13; or by car also around 9:15. This will give enough time for fetching the badge, getting installed in the room and having a coffee/Gipfeli there. 
-- **Starting Time Thursday and Friday**: 9:00. You can arrive at 8:40 from Siggenthal and 8:48 from Brugg.  
-- **Ending Time**: The school ends every day at 18:00 (or few minutes earlier if people want to catch the 18:00 bus)
-
-
-> [!IMPORTANT]  
-> Please bring an ID document with you to enter the PSI campus.
-
-Obviously, please bring your laptop with you.
-
-> [!IMPORTANT]
-> We recommend to have at least 8GB of RAM on your computer, as some of the calculations can 
-> be quite memory-intensive.
-
-For more information, please see the [schedule](SCHEDULE.MD).
-
 ## Instructions Before Arrival
 Ideally, do this **at least one week before the course starts**, 
 so that you have time to ask/write us questions if you encounter any issues.
 
 > [!IMPORTANT]  
-> Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
+> Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository to get yourself ready for Wednesday morning
+
+Obviously, please bring your laptop and charger with you.
+
+> [!IMPORTANT]
+> We recommend to have at least 8GB of RAM on your computer, as some of the calculations can 
+> be quite memory-intensive.
+
+## Schedule
+- **Starting Time Wednesday**: The school starts at 09:45 on Wednesday. 
+
+Please try to arrive with the bus 376 from Brugg, departing 9:04 and arriving 9:18 // bus 357 from Siggenthal-Würenlingen, departing 9:04 and arriving 9:13; or by car also around 9:15. This will give enough time for fetching the badge, getting installed in the room and having a coffee/Gipfeli there. 
+
+- **Starting Time Thursday and Friday**: 9:00. You can arrive at 8:40 from Siggenthal and 8:48 from Brugg.  
+- **Ending Time**: The school ends every day at 18:00 (or few minutes earlier if people want to catch the 18:00 bus)
+
+For more information, please see the [schedule](SCHEDULE.MD).
+
+## Food
+Welcome coffee and coffee breaks will offer coffee, tea, Gipfeli, fruits, cake/biscuits/sweets directly in our room.
+
+You can bring your own food for lunch (microwaves are to be found in the Cafeteria or Mensa), or go to the Cafeteria or Mensa.
 
 ## License
 Unless otherwise specified, all material in this repository is licensed
