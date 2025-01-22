@@ -61,7 +61,7 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 The Paul Scherrer Institute is located near the village of Villigen, Switzerland.
 
 * By bus from Brugg or Siggenthal-Würenlingen: the stop is Villigen, PSI Ost (NOT PSI West) 
-* By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
+* By car: there is parking available in front of the PSI Ost entrance (10 CHF/day).
 
 ## Badge
 Please go to the security desk located in the main hall of the entrance to get your badge. The security desk will notify us and we will pick you up there.
@@ -101,7 +101,7 @@ For more information, please see the [schedule](SCHEDULE.MD).
 ## Food
 Welcome coffee and coffee breaks will offer coffee, tea, Gipfeli, fruits, cake/biscuits/sweets directly in our room.
 
-You can bring your own food for lunch (microwaves are to be found in the Cafeteria or Mensa), or go to the Cafeteria or Mensa
+You can bring your own food for lunch (microwaves are to be found in the Cafeteria or Mensa), or go to the Cafeteria or Mensa.
 
 ## License
 Unless otherwise specified, all material in this repository is licensed
