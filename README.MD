@@ -79,7 +79,7 @@ Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 ## Schedule
 - **Starting Time Wednesday**: The school starts at 09:45 on Wednesday. Please try to arrive with the bus 376 from Brugg, departing 9:04 and arriving 9:18 // bus 357 from Siggenthal-Würenlingen, departing 9:04 and arriving 9:13; or by car also around 9:15. This will give enough time for fetching the badge, getting installed in the room and having a coffee/Gipfeli there. 
 - **Starting Time Thursday and Friday**: 9:00. You can arrive at 8:40 from Siggenthal and 8:48 from Brugg.  
-- **Ending Time**: The school ends every day at 18:00.
+- **Ending Time**: The school ends every day at 18:00 (or few minutes earlier if people want to catch the 18:00 bus)
 
 
 > [!IMPORTANT]  
