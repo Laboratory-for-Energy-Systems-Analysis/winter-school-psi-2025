@@ -1,7 +1,7 @@
 # INSTRUCTIONS BEFORE ARRIVAL
 
 Please follow the below instructions before arriving at the course.
-If you encounter any issues, please contact us, and we will troubleshoot, so that you can arrive with everything set 
+If you encounter any issues, please contact us (Romain), and we will troubleshoot, so that you can arrive with everything set 
 up on your computer. Please absolutely make sure that everything works, so that we can start right away on Wednesday 
 with the content instead of technical troubleshooting.
 
