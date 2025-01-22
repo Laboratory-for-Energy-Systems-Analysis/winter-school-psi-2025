@@ -8,6 +8,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 
 ### 09:00 - 09:30
 **Welcome (15 min) and introduction round 1 (15 min)**
+
 **Location**: OHSA E13
 
 ### 09:30 - 10:00
