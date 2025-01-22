@@ -20,7 +20,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 ### 10:15 - 11:00
 **Brightway basics (part I)**  
 **Location**: OHSA E13  
-**Environment**:  bw2  
+**Environment**: bw2  
 **Instructor**: Romain
 - Introduction to the Brightway framework
 - Importing databases
@@ -32,7 +32,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 ### 11:15 - 12:30
 **Brightway basics (part II)**  
 **Location**: OHSA E13  
-**Environment**:  bw2  
+**Environment**: bw2  
 **Instructor**: Romain  
 - Running LCA
 - Matrices
@@ -44,7 +44,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 ### 13:30 - 15:30
 **Brightway basics (part III)**  
 **Location**: OHSA E13  
-**Environment**:  bw2  
+**Environment**: bw2  
 **Instructor**: Romain
 - Importing own inventories
 - Importing own LCIA methods
@@ -55,7 +55,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 ### 15:50 - 17:30
 **Brightway basics (part IV)**  
 **Location**: OHSA E13  
-**Environment**:  bw2  
+**Environment**: bw2  
 **Instructor**: Romain
 - Contribution analysis
 - Results visualisation
@@ -75,7 +75,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Activity Browser**  
 **Location**: OHSA E13  
 **Instructor**: Karin   
-**Environment**:  ab
+**Environment**: ab
 - Introduction to the Activity Browser
 - Parametrised inventories
 - Monte Carlo analysis
@@ -102,7 +102,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Wurst (part I)**  
 **Location**: OHSA E13  
 **Instructor**: Romain  
-**Environment**:  wurst  
+**Environment**: wurst  
 - Introduction to the Wurst library
 - Database manipulation
 
@@ -113,7 +113,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Wurst (part II)**  
 **Location**: OHSA E13  
 **Instructor**: Romain  
-**Environment**:  wurst  
+**Environment**: wurst  
 - Scenario implementation
 - Comparative analyses
 - Q&A
@@ -127,7 +127,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Premise (part I)**  
 **Location**: OHSA E13  
 **Instructor**: Romain  
-**Environment**:  premise
+**Environment**: premise
 - Introduction to prospective databases
 - Generation of prospective databases
 
@@ -138,7 +138,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Premise (part I)**  
 **Location**: OHSA E13  
 **Instructor**: Romain  
-**Environment**:  premise
+**Environment**: premise
 - Generation of prospective databases
 - Superstructure databases in Activity-Browser
 - Q&A
@@ -151,7 +151,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Mass and Flow Analysis:`ODYM`**  
 **Location**: OHSA E13  
 **Instructor**: Karin  
-**Environment**:  odym
+**Environment**: odym
 - Introduction to ODYM
 - Building a simple ODYM model
 - MFA & pLCA of solar PV fleet
@@ -163,7 +163,7 @@ the school (see [INSTRUCTIONS.MD](INSTRUCTIONS.MD)).
 **Regionalized Impact Assessment**  
 **Location**: OHSA E13  
 **Instructor**: Romain  
-**Environment**:  bw2
+**Environment**: bw2
 - Introduction to regionalized impact assessment
 - Building a simple regionalized impact assessment model
 - ``edges``
