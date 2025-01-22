@@ -17,16 +17,15 @@ dimension. The instructors will be:
 
 The course will cover [Brightway](https://docs.brightway.dev/en/latest/)’s basics and best practices for model development, 
 including the use of Jupyter notebooks and the [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). 
-Essential LCA aspects such as sensitivity analysis, multiple types of 
-uncertainty, parametrization, and best practices in software architecture 
-will be taught. We will also introduce the use of [ODYM](https://github.com/IndEcol/ODYM) for dynamic LCA
-and the use of [Wurst](https://github.com/polca/wurst) for temporal disaggregation of LCA inventories.
+Essential LCA aspects such as importing inventories from excel, calculating LCIA results, sensitivity analysis, multiple types of 
+uncertainty, or parametrization, will be taught. We will also introduce the use of [ODYM](https://github.com/IndEcol/ODYM) for combining LCA with Material Flow Analysis (MFA)
+and the use of [Wurst](https://github.com/polca/wurst) for consistent manipulation of LCA inventories.
 
 ## Course Structure
 This tree-day course will consist of lectures together with hands-on exercises.
 
 ## Target Audience
-This winter school is aimed at students who wish to become familiar with 
+This winter school is aimed at students or academic professionals who wish to become familiar with 
 the Brightway ecosystem, specifically targeting beginner and intermediate 
 users. 
 
@@ -38,18 +37,12 @@ users.
 > [!NOTE]
 > Enrollment is limited to 20 people.
 
-
 ## Accessing PSI
 
 The winter school will be held at **PSI Ost**, at the [Paul Scherrer Institute](https://www.psi.ch/en), 
 Villigen, Switzerland.
-**PSI East** (or **PSI Ost**), part of the Paul Scherrer Institute (PSI) in Switzerland, 
-is located in Villigen, Canton of Aargau, in the northern part of the 
-country near the confluence of the Aare and Rhine rivers. It is 
-approximately 35 kilometers northwest of Zurich, 20 kilometers 
-northeast of Aarau, and close to the German border. The site is 
-easily accessible via public transport, with bus connections from 
-the Brugg train station, and by car via Swiss Federal Route 5. 
+The site is easily accessible via public transport, with bus connections from 
+the Brugg or Siggenthal-Würenlingen train station, and by car via Swiss Federal Route 5. 
 
 The address is:
 
@@ -67,8 +60,11 @@ In case of issue locating the venue, please call this number: +41 56 310 21 11
 ## Get there
 The Paul Scherrer Institute is located near the village of Villigen, Switzerland.
 
-* By bus: the stop is Villigen, PSI Ost. From Bugg: Line 376, every 30 minutes.
+* By bus from Brugg or Siggenthal-Würenlingen: the stop is Villigen, PSI Ost (NOT PSI West) 
 * By car: there is parking available in from of the PSI Ost entrance (10 CHF/day).
+
+## Badge
+Please go to the security desk located in the main hall of the entrance to get your badge. The security desk will notify us and we will pick you up there.
 
 ## Python Preparation
 
@@ -81,10 +77,10 @@ and some Python training before the school starts.
 Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 
 ## Schedule
-- **Starting Time**: The school starts at 09:00 on Wednesday. Try to be there 10-15 minutes before. 
-- **Ending Time**: The school ends at 18:00 on Friday.
+- **Starting Time Wednesday**: The school starts at 09:45 on Wednesday. Please try to arrive with the bus 376 from Brugg, departing 9:04 and arriving 9:18 // bus 357 from Siggenthal-Würenlingen, departing 9:04 and arriving 9:13; or by car also around 9:15. This will give enough time for fetching the badge, getting installed in the room and having a coffee/Gipfeli there. 
+- **Starting Time Thursday and Friday**: 9:00. You can arrive at 8:40 from Siggenthal and 8:48 from Brugg.  
+- **Ending Time**: The school ends every day at 18:00 (or few minutes earlier if people want to catch the 18:00 bus)
 
-We will pick you up from the reception.
 
 > [!IMPORTANT]  
 > Please bring an ID document with you to enter the PSI campus.
