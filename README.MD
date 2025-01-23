@@ -9,7 +9,7 @@
 
 In this winter school, we will build on open-source foundations, focusing 
 on [Brightway](https://github.com/brightway-lca), [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser), [Wurst](https://github.com/polca/wurst), [Premise](https://github.com/polca/premise) and [ODYM](https://github.com/IndEcol/ODYM), 
-to make our inventory models better fit research questions with a temporal 
+to perform LCA studies and to make our inventory models better fit research questions with a temporal 
 dimension. The instructors will be:
 
 - **Romain Sacchi**: Developer of [Premise](https://github.com/polca/premise), [Pathways](https://github.com/polca/pathways) and [Carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator)
@@ -19,7 +19,7 @@ The course will cover [Brightway](https://docs.brightway.dev/en/latest/)’s bas
 including the use of Jupyter notebooks and the [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser). 
 Essential LCA aspects such as importing inventories from excel, calculating LCIA results, sensitivity analysis, multiple types of 
 uncertainty, or parametrization, will be taught. We will also introduce the use of [ODYM](https://github.com/IndEcol/ODYM) for combining LCA with Material Flow Analysis (MFA)
-and the use of [Wurst](https://github.com/polca/wurst) for consistent manipulation of LCA inventories.
+and the use of [Wurst](https://github.com/polca/wurst) for consistent manipulation of LCA inventories. And of course, you will learn how to make use of [premise](https://premise.readthedocs.io) for the creation of prospective, IPCC scenario-based ecoinvent versions.
 
 ## Course Structure
 This tree-day course will consist of lectures together with hands-on exercises.
