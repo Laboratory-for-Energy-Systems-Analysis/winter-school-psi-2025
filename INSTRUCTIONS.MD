@@ -202,7 +202,7 @@ In the terminal, place yourself in the `winter-school-psi-2025/envs` folder and:
 ```
 
 Make sure to replace `'ecoinvent_username'` and `'ecoinvent_password'` with your actual ecoinvent credentials.
-Important: use single quotes around the username and password.
+Important: for Mac users, use single quotes around the username and password.
 
 If successful, you should see the following message:
 
